@@ -1,10 +1,18 @@
 # Cursor Glow ✨
-Beautiful cursor glow + particle trail effect for modern websites.
+Beautiful cursor glow + particle trail effect for modern websites.  
+![demo](./demo/demo.gif)
+
+🌎 Language
+
+- [English](./README.md)
+- [한국어](./README.ko.md)
+
 
 
 ## Install
-    npm install cursor-glow
-
+```bash
+npm install cursor-glow
+```
 
 ## Usage
 ```js
@@ -29,12 +37,18 @@ cursorGlow({
 ```jsx
 import CursorGlow from "cursor-glow/react/CursorGlow"
 
-<CursorGlow />
+function App() {
+  return (
+    <>
+      <CursorGlow />
+      <h1>Hello</h1>
+    </>
+  )
+}
 ```
 
 
 ## Features
-
 glow cursor  
 particle trail  
 hover magnet effect  
@@ -43,7 +57,8 @@ lightweight
 zero dependencies  
 
 
-## Demo
-```Bash
-Live Demo coming soon
-```
+## License
+MIT
+
+---
+⭐ If you like this project, please give it a star!
