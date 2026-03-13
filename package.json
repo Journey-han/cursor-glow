@@ -13,11 +13,11 @@
     "ui animation",
     "particle cursor"
   ],
-  "author": "Your Name",
+  "author": "Journey-han",
   "license": "MIT",
-  "homepage": "https://github.com/yourname/cursor-glow",
+  "homepage": "https://blog.sophomore.kr",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourname/cursor-glow.git"
+    "url": "https://github.com/Journey-han/cursor-glow"
   }
 }
